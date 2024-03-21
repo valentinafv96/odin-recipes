@@ -10,8 +10,8 @@ This recipes are present in different webpages in which it is included an __imag
 
 ## Skills demostrated
 
--[x] Knowledge of the structure of HTML boilerplate.
--[x] Use of relative links.
--[x] Insertion of images.
--[x] Knowledge of elements and their corresponding attributes in HTML.
--[x] Use of git and GitHub for the management of projects.
+- [x] Knowledge of the structure of HTML boilerplate.
+- [x] Use of relative links.
+- [x] Insertion of images.
+- [x] Knowledge of elements and their corresponding attributes in HTML.
+- [x] Use of git and GitHub for the management of projects.
