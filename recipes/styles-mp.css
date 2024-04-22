@@ -1,0 +1,237 @@
+* {
+    /* outline: 1px solid red; */
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    height: 2550px;
+}
+
+.header {
+    text-align: center;
+    background-color: #D9EDBF;
+    font-size: 40px;
+    padding: 10px;
+    margin: 20px 0px;
+}
+
+.desc, .ing, .sts {
+    font-size: 30px;
+    background-color: #ff8989;
+    padding: 10px;
+}
+
+.desc {
+    margin: 20px 0px;
+}
+
+.ing {
+    text-align: center;
+    margin: 5px;
+}
+
+.sts {
+    margin: 20px 0px;
+}
+
+.li1.f {
+    height: 250px;
+    font-size: 15px;
+    margin: 11px 5px 5px 30px;
+}
+
+.big-box1 {
+    padding: 20px;
+    height: 400px;
+    margin: 20px;
+}
+
+.tx1, .li1, .li2 {
+    font-size: 20px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.tx1 {
+    margin: 20px 0px;
+}
+
+.img1, .tx2 {
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 0px 5px;
+}
+
+.img1 {
+    width: 400px;
+    border: 3px solid black;
+    float: left;
+}
+
+.tx2 {
+    width: 750px;
+    height: 400px;
+    float: right;
+}
+
+.li2 {
+    margin: 20px 20px 20px 50px;
+}
+
+.big-box2 {
+    margin: 20px;
+}
+
+/* Bottom band */
+
+.bottom-band {
+    background-color: #D9EDBF;
+    height: 350px;
+    margin-top: 20px;
+}
+
+.refs, .tx3, .li3{
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    width: 590px;
+    margin: 20px 5px 5px 20px;
+    float: left;
+}
+
+.follow, .social, .big-box3 {
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    width: 590px;
+    margin: 20px 20px 5px 5px;
+    float: right;
+}
+
+.refs, .follow {
+    font-weight: bold;
+    font-size: 35px;
+    height: 40px;
+    padding: 5px;
+}
+
+.tx3, .social {
+    font-size: 20px;
+    height: 55px;
+    padding: 5px;
+}
+
+.li3, .big-box3 {
+    font-size: 20px;
+    height: 170px;
+    margin-bottom: 20px;
+}
+
+.li3 {
+    padding: 16px 30px;
+}
+
+.big-box3 {
+    padding: 5px;
+}
+
+.img2, .minibox {
+    display: inline-block;
+    box-sizing: border-box;
+    height: 160px;
+}
+
+.img2 {
+    float: left;
+    border: 2px solid black;
+}
+
+.minibox {
+    width: 250px;
+    padding: 5px;
+    float: right;
+}
+
+.tx4, .but {
+    width: 240px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.tx4 {
+    margin: 0px 0px 25px 0px;
+}
+
+.but {
+    box-sizing: border-box;
+    background-color:#A1C398;
+    border: 2px solid black;
+    cursor: pointer;
+    color: white;
+    height: 35px;
+    padding: 5px;
+}
+
+.but:hover {
+    background-color: #8caa84;
+}
+
+
+.copyright {
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px 0px;
+}
+
+/* Style all font awesome icons */
+
+.fa {
+    padding: 12px;
+    font-size: 30px;
+    text-align: center;
+    width: 20px;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 0px 20px;
+}
+
+/* Add a hover effect if you want */
+
+.fa:hover {
+    opacity: 0.7;
+}
+  
+/* Set a specific color for each brand */
+  
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+  
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+  
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+  
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+  
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+  
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+
